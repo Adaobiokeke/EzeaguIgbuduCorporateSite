@@ -1,0 +1,72 @@
+body{
+    /* background-image: url('../Assets/body-img1.jpg'); */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.nav-about{
+    /* background-image: url('../Assets/nav-img5.jpg'); */
+ /* height:60%; */
+    border: 1px solid rgb(210, 207, 207);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    width:90%
+    /* filter: blur(8px) */
+    
+}
+.community{
+    width:93%;
+    margin:0 6%;
+    border-radius: 7px;
+}
+.aboutus1{
+margin: auto;
+padding:2%;
+width:90%;
+background-color:rgb(207, 205, 194);
+border-radius:10px;
+box-shadow:2px 2px rgb(161, 156, 156)
+}
+li{
+    /* line-height:2; */
+    font-size: 19px;
+}
+.trustees{
+margin: 5% auto;
+padding:5%;
+width:85%;
+background-color:rgb(206, 197, 202);
+border-radius:10px;
+box-shadow:2px 2px rgb(161, 156, 156);
+height:10%;
+}
+h2{
+    text-align:left;
+    margin-bottom:3%;
+    font-size: 18px;
+}
+h1{
+    text-align:center;
+    margin-bottom:3%;
+    font-size: 32px;
+}
+.mypix{
+    width:300px;
+    height:230px;
+    border-radius:50%;
+}
+.membergrid{
+    border:1px solid rgb(134, 125, 125);
+    padding-left: 25%;
+    padding-top: 10%;
+    border-radius:5px;
+    box-shadow:2px 2px rgb(134, 125, 125);
+    background-color:rgb(207, 205, 194)
+    
+}
+.mypix1{
+    width:150px;
+    height:100px;
+    border-radius:50%;
+}
