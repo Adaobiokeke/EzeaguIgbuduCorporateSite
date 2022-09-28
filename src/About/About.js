@@ -3,6 +3,9 @@ import "./About.css";
 import Navabout from "../Navbar/Nav-about";
 import Trustees from "../Slider/trusteeslider.js";
 import { trusteesdatas } from "./tusteesdatas";
+import ReactPlayer from "react-player";
+import Footer from '../Footer/footer'
+
 import Grid from "@material-ui/core/Grid";
 import { memberdatas } from "./memberdatas";
 import Community from "../Assets/about-img.jpg";
@@ -12,6 +15,15 @@ const About = () => {
       <section className="nav-about">
         <Navabout />
       </section>
+      {/* <div>
+        <Grid container spacing={2}>
+          <Grid item xs={12} sm={12} md={12}>
+            <ReactPlayer
+            url=""/>
+          </Grid>
+        </Grid>
+      </div> */}
+     
       <Grid container spacing={2}>
         <Grid item xs={12} sm={6} md={6}>
           <img src={Community} alt="community" className="community" />
@@ -69,17 +81,7 @@ const About = () => {
         )}
         </Grid>
       </section>
-      {/* <Grid container spacing={3}>
-        {trusteesdatas && trusteesdatas.map((box,index) =>
-        <Grid item xs={12} sm={6} md={4}>
-          <img src={box.image} alt='images'className='mypix' />
-        </Grid>
-        )}
-        </Grid>
-        <h1>
-          Our Members
-        </h1>
-         */}
+         <Footer/>
     </div>
   );
 };

@@ -1,8 +1,13 @@
 import React from 'react'
+import Navresource from '../Navbar/Nav-res'
 
 const Resources = () => {
   return (
-    <div>Resources</div>
+    <div>
+       <section className="nav-res">
+        <Navresource />
+      </section>
+    </div>
   )
 }
 

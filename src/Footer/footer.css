@@ -1,0 +1,25 @@
+body{
+    box-sizing: border-box
+}
+.footer-container{
+    background-color: #aba8a8;
+    margin:0 auto;
+    height:30%;
+    /* border:1px solid red; */
+    /* width:95% */
+    display:flex;
+    justify-content:space-around;
+}
+
+.icon{
+    /* border:1px solid; */
+    align-items:center
+}
+.icons{
+    margin-left:30%
+}
+.email{
+    /* border:1px solid; */
+    text-align:center
+}
+

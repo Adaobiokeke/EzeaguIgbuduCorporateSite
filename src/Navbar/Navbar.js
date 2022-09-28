@@ -8,12 +8,16 @@ const Navbar = () => {
     <div>
       <div className="navbar">
         <div className="logo-div">
-          <img src={Logo} alt="logo" className="logo-img" />
-          <span>EzeaguIgbudu Association Canada</span>
+            {/* <img src={Logo} alt='logo' className='logo-img'/> */}
+            <Link to="/">
+            <button className="nav-button">
+              EzeaguIgbudu Association Canada
+            </button>
+          </Link>
         </div>
         <div className="navbar1">
           <Link to="/about">
-            <button className="nav-button">ABOUT.</button>
+            <button className="nav-button">About Us</button>
           </Link>
           <Link to="/activity">
             <button className="nav-button">Humaniterian Activities</button>

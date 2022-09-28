@@ -23,7 +23,7 @@ body{
 .aboutus1{
 margin: auto;
 padding:2%;
-width:90%;
+width:85%;
 background-color:rgb(207, 205, 194);
 border-radius:10px;
 box-shadow:2px 2px rgb(161, 156, 156)
@@ -44,7 +44,7 @@ height:10%;
 h2{
     text-align:left;
     margin-bottom:3%;
-    font-size: 18px;
+    font-size: 16px;
 }
 h1{
     text-align:center;
