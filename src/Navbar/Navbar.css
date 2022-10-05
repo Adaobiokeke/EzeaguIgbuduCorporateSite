@@ -54,3 +54,21 @@ margin-bottom:5%;
     width:50px;
     height:50px;
 }
+
+@media only screen and (max-width: 600px) {
+  
+    .navbar {
+        width:100%
+      }
+      .navbar1 {
+        width:50%;
+        margin:auto
+      }
+      .nav-button{
+          font-size:12px;
+          width:80px
+    }
+    .logo-div{
+        display: none
+    }
+}
