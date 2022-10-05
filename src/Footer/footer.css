@@ -35,7 +35,7 @@ body{
     justify-content:space-around;
 }
 .icon{
-    border:1px solid;
+    /* border:1px solid; */
     align-items:center;
     margin:auto;
     width:40%;
