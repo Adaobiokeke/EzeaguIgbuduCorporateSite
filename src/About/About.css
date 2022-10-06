@@ -70,3 +70,10 @@ h1{
     height:100px;
     border-radius:50%;
 }
+@media only screen and (max-width: 600px) {
+    .community{
+        width:93%;
+        margin:10% 6%;
+        border-radius: 7px; 
+    }
+}
