@@ -4,28 +4,23 @@ import "./Home.css";
 import Slider from "../Slider/slider";
 import Grid from "@material-ui/core/Grid";
 // import Landingimg from '../Assets/picnic lion2.jpg'
-import picnic1 from "../Assets/humanitarian collage.png";
+// import picnic1 from "../Assets/humanitarian collage.png";
 import Footer from "../Footer/footer";
+import Landingimg from '../Assets/lioninthejungle.jpg'
 
 const homepage = () => {
   return (
     <div className="">
       <Navbar />
       <section className="activity">
-        <Grid container spacing={2}>
-          <Grid item xs={12} sm={12} md={6}>
-            <h1>Ada</h1>
-          </Grid>
-          <Grid item xs={12} sm={12} md={6}>
-            <img src={picnic1} alt="picnic-img" className="landing-img" />
-          </Grid>
-          <Grid item xs={12} sm={12} md={6}>
-            <img src={picnic1} alt="picnic-img" className="landing-img" />
-          </Grid>
-          <Grid item xs={12} sm={12} md={6}>
-            <h1>Ada</h1>
-          </Grid>
-        </Grid>
+        <div>
+          <img src={Landingimg} alt='landing-img' className='landing-img' />
+          </div>
+          <div className="landing-title">
+          <p >
+            EzeaguIgbudu Association Toronto Canada
+          </p>
+          </div>
       </section>
       {/* <section className="carouse-sec">
         <Slider />

@@ -2,19 +2,20 @@ import React from "react";
 import "./Navbar.css";
 import Logo from "../Assets/lion.jpg";
 import { Link } from "react-router-dom";
+import HomeIcon from '@material-ui/icons/Home';
 
 const Navbar = () => {
   return (
     <div>
       <div className="navbar">
+          <Link to="/">
         <div className="logo-div">
-            <Link to="/">
-            <img src={Logo} alt='logo' className='logo-img'/>
+            <HomeIcon className="home-logo"/>
             <button className="nav-button1">
               EzeaguIgbudu Association Canada
             </button>
-          </Link>
         </div>
+          </Link>
         <div className="navbar1">
           <Link to="/about">
             <button className="nav-button">About Us</button>
