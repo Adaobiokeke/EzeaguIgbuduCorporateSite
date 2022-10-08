@@ -48,6 +48,13 @@ body{
     
 
 }
+.const-grid2{
+    background-color:rgb(207, 205, 194);
+    width:30%;
+   border-radius: 12px;
+    
+
+}
 .text-div{
     /* border:1px solid; */
     padding:5% 10%
@@ -80,4 +87,25 @@ body{
     width:70%;
     height:50%;
     border-radius:7%;
+}
+
+@media only screen and (max-width: 600px) {
+.res-sec{
+    margin-top:15%
+}
+.res-grid{
+    display:block;
+    width:100%;
+}
+    .const-grid{
+        width:100%;
+    }
+    .const-grid2{
+        width:100%;
+        margin-top:5%;
+    }
+    .middle-div{
+        margin-top:5%;
+        border:1px solid 
+    }
 }

@@ -29,9 +29,9 @@ const Resources = () => {
             </a>
           </div>
           </div>
-          <div className="const-grid">
-            <img src={Constitution} alt="the Constitution" className="img-const"/>
-            <h5>
+          <div className="const-grid2" >
+            <img src={Constitution} alt="the Constitution" className="img-const" />
+            <h5 className="text-div">
               Our objective is to promote and protect the culture of Ezeagu
               Igbudu in particular and Enugu State, Nigeria and West Africa in
               general{" "}

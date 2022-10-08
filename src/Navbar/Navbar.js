@@ -8,9 +8,9 @@ const Navbar = () => {
     <div>
       <div className="navbar">
         <div className="logo-div">
-            {/* <img src={Logo} alt='logo' className='logo-img'/> */}
             <Link to="/">
-            <button className="nav-button">
+            <img src={Logo} alt='logo' className='logo-img'/>
+            <button className="nav-button1">
               EzeaguIgbudu Association Canada
             </button>
           </Link>
