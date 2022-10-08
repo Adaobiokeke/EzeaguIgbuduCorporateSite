@@ -22,9 +22,6 @@ const homepage = () => {
           </p>
           </div>
       </section>
-      {/* <section className="carouse-sec">
-        <Slider />
-      </section> */}
       <Footer />
     </div>
   );

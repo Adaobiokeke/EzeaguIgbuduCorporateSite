@@ -64,5 +64,9 @@ box-sizing:border-box
         top:20%;
         /* border:1px solid */
     }
+    .activity{
+        /* border:1px solid; */
+        margin-bottom:45%
+    }
 }
 
