@@ -30,7 +30,7 @@ const About = () => {
         </Grid>
         <Grid item xs={12} sm={12} md={6}>
           <section className="aboutus1">
-            <h2>
+            <h2 className="proverb">
               Ezeagu Igbudu Association Toronto Canada is a non-profit oriented
               organisation that is based in Canada,
               <br /> we are a group of brothers and sisters from different parts
@@ -66,11 +66,15 @@ const About = () => {
       {trusteesdatas && trusteesdatas.map((box,index) =>
         <Grid item xs={12} sm={6} md={4}>
            <img src={box.image} alt='images'className='mypix' />
+           <div className='nametag'>
+           <p>{box.details}</p>
+           <p>{box.title}</p>
+           </div>
         </Grid>
       )}
       </Grid>
-      <h1>Our Members</h1>
-      <Grid container spacing={3}>
+      {/* <h1>Our Members</h1> */}
+      {/* <Grid container spacing={3}>
         {memberdatas && memberdatas.map((box,index) =>
         <Grid item xs={12} sm={6} md={3} >
           <div className='membergrid'>
@@ -79,7 +83,7 @@ const About = () => {
           </div>
         </Grid>
         )}
-        </Grid>
+        </Grid> */}
       </section>
          <Footer/>
     </div>

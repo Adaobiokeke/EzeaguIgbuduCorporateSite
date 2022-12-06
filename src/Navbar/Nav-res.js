@@ -23,6 +23,9 @@ const Navbar = () => {
           <Link to="/activity">
             <button className="nav-button">Humanitarian Activities</button>
           </Link>
+          <Link to="/contact">
+            <button className="nav-button">Contact</button>
+          </Link>
         </div>
         </div>
         </div>

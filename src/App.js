@@ -6,6 +6,7 @@ import About from './About/About'
 import Activity from './Activities/Activity'
 import Resources from './Resources/Resources'
 import Error from './Error/Error'
+import Contact from './Contact/contact'
 import './App.css';
 
 function App() {
@@ -17,6 +18,7 @@ function App() {
     <Route  path='/activity' element={<Activity/>}/> 
     <Route  path='/about' element={<About/>}/> 
     <Route  path='/resources' element={<Resources/>}/> 
+    <Route  path='/contact' element={<Contact/>}/> 
     <Route  path='*' element={<Error/>}/> 
     </Routes>
     </div>

@@ -38,17 +38,36 @@ box-sizing:border-box
     color:rgb(198, 180, 99)
 
     }
+    @media only screen and (max-width: 650px) {
+        .landing-img{
+            width:101%;
+            margin:7% 5%;
+            background-position: center;
+            background-repeat: no-repeat;
+            background-size: cover;
+            /* border:5px solid; */
+        }
+    }
+@media only screen and (max-width: 590px) {
+    .landing-img{
+        width:150%;
+        margin:7% 7%;
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+        border:2px solid;
+    }  
+}
 @media only screen and (max-width: 600px) {
     body{
     box-sizing: border-box;
-    /* overflow: hidden; */
     margin:0;
     padding:0;
-    /* width:90vw; */
+
     }
     .landing-img{
-        width:100%;
-        margin:7% auto;
+        width:102%;
+        margin:7% 6%;
         background-position: center;
         background-repeat: no-repeat;
         background-size: cover;
@@ -69,5 +88,52 @@ box-sizing:border-box
         /* border:1px solid; */
         margin-bottom:45%
     }
+
+}
+@media only screen and (max-width: 250px) {
+ 
+    .landing-img{
+        width:110%;
+        margin:8% 0%;
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+    }
+}
+@media only screen and (max-width: 800px) {
+    body{
+        box-sizing: border-box;
+        margin:0;
+        padding:0;
+    
+        }
+    .landing-img{
+        width:103%;
+        margin:7% 0%;
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+        /* border:1px solid; */
+    }
+}
+@media only screen and (max-width: 850px) {
+    .landing-img{
+        width:100%;
+        margin:7% 0%;
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+        /* border:1px solid; */
+    }
 }
 
+@media only screen and (max-width: 1400px) {
+    .landing-img{
+        width:100%;
+        margin:7% 0%;
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+        /* border:1px solid; */
+    }
+}

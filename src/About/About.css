@@ -33,15 +33,15 @@ li{
     font-size: 19px;
 }
 .trustees{
-margin: 5% auto;
-padding:5%;
+margin: 2% auto;
+padding:6%;
 width:85%;
 background-color:rgb(206, 197, 202);
 border-radius:10px;
 box-shadow:2px 2px rgb(161, 156, 156);
 height:10%;
 }
-h2{
+.proverb{
     text-align:left;
     margin-bottom:3%;
     font-size: 16px;
@@ -52,9 +52,11 @@ h1{
     font-size: 32px;
 }
 .mypix{
-    width:300px;
+    width:280px;
     height:230px;
     border-radius:50%;
+    border:5px solid rgb(170, 163, 123);
+    
 }
 .membergrid{
     border:1px solid rgb(134, 125, 125);
@@ -70,10 +72,70 @@ h1{
     height:100px;
     border-radius:50%;
 }
+.nametag{
+    /* border:5px solid; */
+    text-align:center;
+    width:70%
+}
+@media only screen and (max-width: 570px) {
+    .mypix{
+        width:200px;
+        height:200px;
+        border-radius:50%;
+        border:5px solid rgb(170, 163, 123);
+    }
+}
+
 @media only screen and (max-width: 600px) {
     .community{
         width:93%;
         margin:10% 6%;
         border-radius: 7px; 
     }
+    .nametag{
+        /* border:1px solid; */
+        text-align:center;
+        width:70%;
+        margin:10% 10%;
+        font-size: 16px;
+        font-weight:bold;
+        font-family:'Courier New', Courier, monospace
+    }
 }
+@media only screen and (max-width: 640px) {
+    .community{
+        width:90%;
+        margin:8% 6%;
+        border-radius: 7px;
+    } 
+    .nametag{
+        /* border:1px solid; */
+        text-align:center;
+        width:70%;
+        font-size: 16px;
+        font-weight:bold;
+        font-family:cursive
+
+    }
+
+}
+@media only screen and (max-width: 670px) {
+    .mypix{
+        width:220px;
+        height:220px;
+        border-radius:50%;
+        border:5px solid rgb(170, 163, 123);
+    margin-left: 2%;
+
+    }
+}
+
+@media only screen and (max-width: 720px) {
+.mypix{
+    /* margin-left: 20%; */
+}
+}
+
+
+
+
