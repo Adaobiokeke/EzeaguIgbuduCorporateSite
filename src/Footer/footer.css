@@ -30,7 +30,7 @@ body{
         display:block;
         width:120%;
         justify-content:space-around;
-        border:1px solid rgb(128, 87, 0);
+        /* border:1px solid rgb(128, 87, 0); */
         overflow:hidden;
     
     }
