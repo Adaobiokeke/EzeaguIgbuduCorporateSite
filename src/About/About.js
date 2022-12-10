@@ -106,7 +106,7 @@ const About = () => {
                   href="https://docs.google.com/document/d/1LyIcxyfARRk16Om45FVcjSI-9jKvKAxg1sNYJE8hTaU/edit?usp=sharing"
                   target="_blank"
                 >
-                  <h6 style={{color:'rgb(114, 48, 23)', textDecoration: 'none', textAlign:'centre'}}>Read More...</h6>
+                  <h6 style={{color:'rgb(114, 48, 23)'}}>Read More...</h6>
                 </a>
               </div>
             </div>
