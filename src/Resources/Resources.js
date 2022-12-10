@@ -14,7 +14,7 @@ const Resources = () => {
         <Navresource />
       </section>
       <section className="trustees">
-        <h2 style={{fontFamily:'cursive',color:'rgb(35, 88, 88)'}}>
+        <h2 style={{color:'rgb(35, 88, 88)'}}>
           OUR SOCIAL ACTIVITY <br/><br/>One of the Associations aims and objectives is to
           bring all Ezeagu Indigenous People together, to associate with your
           brothers and sisters away from home. We are each others support at all

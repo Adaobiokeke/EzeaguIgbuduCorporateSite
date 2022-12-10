@@ -23,7 +23,7 @@ const Navbar = () => {
             <button className="nav-button">Humaniterian Activities</button>
           </Link>
           <Link to="/resources">
-            <button className="nav-button">Resources</button>
+            <button className="nav-button">Social Activities</button>
           </Link>
           <Link to="/contact">
             <button className="nav-button">Contact</button>
