@@ -4,15 +4,18 @@ import item3 from '../Assets/emeka-img.jpeg'
 export const trusteesdatas = [
     {
         image:item1,
-        details:'Victor',
+        details:'Victor Okpara',
         title:'Chairman, Board of trustees'
     },
     {
         image:item2,
-        details:'Cynthia Njideka Anieke'
+        details:'Cynthia Njideka Anieke',
+        title:'Secretary, Board of trustees'
     },
     {
         image:item3,
+        details:'Emeka Ejiofor',
+        title:'Member, Board of trustees'
     },
 ]
 

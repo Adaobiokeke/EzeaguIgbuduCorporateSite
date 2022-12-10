@@ -111,8 +111,8 @@ const About = () => {
               </div>
             </div>
             <div style={{paddigTop:'50%',textAlign: "center"}} >
-            <h5 style={{fontSize:'38px',color:'rgb(67, 106, 67)',fontFamily:'cursive'}}>
-              We Our Constitution
+            <h5 style={{fontSize:'35px',color:'rgb(35, 88, 88)',fontFamily:'cursive'}}>
+              View Our Constitution
             </h5>
           </div>
             <div className="const-grid">

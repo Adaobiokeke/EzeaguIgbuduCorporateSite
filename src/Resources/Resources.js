@@ -13,51 +13,21 @@ const Resources = () => {
       <section className="nav-res">
         <Navresource />
       </section>
-      <section className="res-sec">
-        <div className="resources">
-          <div className="res-grid">
-            <div className="const-grid">
-              <img
-                src={Constitution}
-                alt="the Constitution"
-                className="img-const"
-              />
-              <div className="text-div">
-                <h5>
-                  Our objective is to promote and protect the culture of Ezeagu
-                  Igbudu in particular and Enugu State, Nigeria and West Africa
-                  in general <br />
-                </h5>
-                <a
-                  href="https://docs.google.com/document/d/1LyIcxyfARRk16Om45FVcjSI-9jKvKAxg1sNYJE8hTaU/edit?usp=sharing"
-                  target="_blank"
-                >
-                  <h6>Read More...</h6>
-                </a>
-              </div>
-            </div>
-            {/* <div className="const-grid2" >
-            <img src={Constitution} alt="the Constitution" className="img-const" />
-            <h5 className="text-div">
-              Our objective is to promote and protect the culture of Ezeagu
-              Igbudu in particular and Enugu State, Nigeria and West Africa in
-              general{" "}
-            </h5>
-          </div> */}
-            <div className="const-grid">
-              <img src={Cert} alt="the Constitution" className="img-const" />
-              <div className="text-div2">
-                <h5>We are a fully registered Non for Profit Organisation. </h5>
-                <a
-                  href="https://www.canva.com/design/DAFN_s0G-J0/ZRI7jDoKqq2-uhS42ZM3tg/view?utm_content=DAFN_s0G-J0&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton"
-                  target="_blank"
-                >
-                  <h6>View here...</h6>
-                </a>
-              </div>
-            </div>
-          </div>
-        </div>
+      <section className="trustees">
+        <h2 style={{fontFamily:'cursive',color:'rgb(35, 88, 88)'}}>
+          OUR SOCIAL ACTIVITY <br/><br/>One of the Associations aims and objectives is to
+          bring all Ezeagu Indigenous People together, to associate with your
+          brothers and sisters away from home. We are each others support at all
+          times.<br/> Ezeagu Igbudu Association Toronto Canada holds their Annual
+          Picnic every Summer. It is an avenue for not only adults, to come and
+          socialize but also our Children have the opportunity to witness their
+          Father's culture rather than stories.<br/><br/> It is the height of our social
+          activities as we do our best to include different cultural activities
+          such as Yam roasting ( ihu ji), palm oil and oil bean sauce ( mmanu
+          ukpaka), Cultural musics ( Ogene) and many more. We have various games
+          that are very entertaining for all. <br/><br/>COME JOIN US <br/>EZEAGU IGBUDU KWENU !<br/><br/>
+          Below are pictures of our Past Social activities...
+        </h2>
       </section>
       <section class="picnic-grid">
         <Grid container spacing={3}>
