@@ -19,8 +19,8 @@ const Resources = () => {
         </h2>
         <h2 style={{color:'rgb(35, 88, 88)'}}>
           One of the Associations aims and objectives is to
-          bring all Ezeagu Indigenous People together, to associate with your
-          brothers and sisters away from home. We are each others support at all
+          bring all Ezeagu Indigenous People in Canada together , to associate with 
+          one another. We are each others support at all
           times.<br/> Ezeagu Igbudu Association Toronto Canada holds their Annual
           Picnic every Summer. It is an avenue for not only adults, to come and
           socialize but also our Children have the opportunity to witness their
