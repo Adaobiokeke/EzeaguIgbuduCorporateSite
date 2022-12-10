@@ -97,7 +97,7 @@ const About = () => {
                 className="img-const"
               />
               <div className="text-div">
-                <h5>
+                <h5 style={{color:'rgb(114, 48, 23)'}}>
                   Our objective is to promote and protect the culture of Ezeagu
                   Igbudu in particular and Enugu State, Nigeria and West Africa
                   in general <br />
@@ -106,7 +106,7 @@ const About = () => {
                   href="https://docs.google.com/document/d/1LyIcxyfARRk16Om45FVcjSI-9jKvKAxg1sNYJE8hTaU/edit?usp=sharing"
                   target="_blank"
                 >
-                  <h6>Read More...</h6>
+                  <h6 style={{color:'rgb(114, 48, 23)', textDecoration: 'none', textAlign:'centre'}}>Read More...</h6>
                 </a>
               </div>
             </div>
@@ -118,12 +118,12 @@ const About = () => {
             <div className="const-grid">
               <img src={Cert} alt="the Constitution" className="img-const" />
               <div className="text-div2">
-                <h5>We are a fully registered Non for Profit Organisation. </h5>
+                <h5 style={{color:'rgb(114, 48, 23)'}}>We are a fully registered Non for Profit Organisation. </h5>
                 <a
                   href="https://www.canva.com/design/DAFN_s0G-J0/ZRI7jDoKqq2-uhS42ZM3tg/view?utm_content=DAFN_s0G-J0&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton"
                   target="_blank"
                 >
-                  <h6>View here...</h6>
+                  <h6 style={{color:'rgb(114, 48, 23)',textDecoration: 'none'}}>View here...</h6>
                 </a>
               </div>
             </div>
