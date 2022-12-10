@@ -14,8 +14,11 @@ const Resources = () => {
         <Navresource />
       </section>
       <section className="trustees">
+        <h2 style={{color:'rgb(114, 48, 23)'}}>
+        OUR SOCIAL ACTIVITY 
+        </h2>
         <h2 style={{color:'rgb(35, 88, 88)'}}>
-          OUR SOCIAL ACTIVITY <br/><br/>One of the Associations aims and objectives is to
+          One of the Associations aims and objectives is to
           bring all Ezeagu Indigenous People together, to associate with your
           brothers and sisters away from home. We are each others support at all
           times.<br/> Ezeagu Igbudu Association Toronto Canada holds their Annual
@@ -25,7 +28,10 @@ const Resources = () => {
           activities as we do our best to include different cultural activities
           such as Yam roasting ( ihu ji), palm oil and oil bean sauce ( mmanu
           ukpaka), Cultural musics ( Ogene) and many more. We have various games
-          that are very entertaining for all. <br/><br/>COME JOIN US <br/>EZEAGU IGBUDU KWENU !<br/><br/>
+          that are very entertaining for all. 
+        </h2>
+        <h2 style={{color:'rgb(114, 48, 23)'}}>
+        COME JOIN US! <br/>EZEAGU IGBUDU KWENU !!!<br/><br/>
           Below are pictures of our Past Social activities...
         </h2>
       </section>

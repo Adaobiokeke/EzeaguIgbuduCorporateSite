@@ -41,7 +41,7 @@ const About = () => {
               and by empowering our community. NWANNE DI NA MBA! <br /> We have
               the following objectives;
             </h2>
-            <ol>
+            <ol style={{color:'rgb(35, 88, 88)'}}>
               <li>
                 To unite all indigenous members of Ezeagu in Toronto Canada, and
                 bring us under one umbrella, for the purpose of getting involved
@@ -63,7 +63,7 @@ const About = () => {
         </Grid>
       </Grid>
         <section className="trustees">
-        <h1>Our Trustees</h1>
+        <h1 style={{color:'rgb(35, 88, 88)'}}>Our Trustees</h1>
       <Grid container spacing={3}>
       {trusteesdatas && trusteesdatas.map((box,index) =>
         <Grid item xs={12} sm={6} md={4}>

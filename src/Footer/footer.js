@@ -19,8 +19,8 @@ const footer = () => {
           </a>
         </div>
         <div className="email">
-          <h4>Contact Us</h4>
-            <h4>ezeaguigbudutorontocanada@gmail.com</h4>
+          <h4 style={{color:'black'}}>Contact Us</h4>
+            <h4 style={{color:'black'}}>ezeaguigbudutorontocanada@gmail.com</h4>
         </div>
        
     </footer>

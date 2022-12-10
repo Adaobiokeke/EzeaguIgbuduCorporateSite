@@ -7,6 +7,7 @@ body{
     margin-bottom:0;
     /* width: 120%;? */
     
+    
     display:flex;
     justify-content:space-around;
 }
@@ -18,7 +19,7 @@ body{
     margin-left:20%
 }
 .email{
-
+    color: black;
     text-align:center
 }
 @media only screen and (max-width: 590px) {

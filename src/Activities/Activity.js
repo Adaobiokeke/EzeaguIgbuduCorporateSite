@@ -14,13 +14,20 @@ const Activity = () => {
       <section className='trustees'>
       <h2>Our Humanitarian aid is a means the Ezeagu Igbudu Association Toronto Canada gives back to our Ezeagu Communities in Nigeria, to promote growth and advancement of our people. 
 Our main focus are towards Empowerments in the category of; the less privileged people that are in dire condition. Our relieve package is to help them find their footing in the society as 
-we understand the Challenges/ Situations our people face on a daily basis.<br/>
+we understand the Challenges/ Situations our people face on a daily basis.
+ </h2>
  <br/>
+ <h2 style={{color:'rgb(114, 48, 23)'}}>
+ FUNDING
+ </h2>
+ <h2>
+The source of  our humanitarian project funding at this stage are from  our honorable members of the association. We hope and look forward to finding an avenue to increase our funds to give more to our communities as it will provide greater opportunities for more people. Our  aim is  to take this project to the next level were we will be able to extend our Humanitarian aid towards Education System and more Youth Empowerment.
+ </h2>
  <br/>
- FUNDING <br/>
-The source of  our humanitarian project funding at this stage are from  our honorable members of the association. We hope and look forward to finding an avenue to increase our funds to give more to our communities as it will provide greater opportunities for more people. Our  aim is  to take this project to the next level were we will be able to extend our Humanitarian aid towards Education System and more Youth Empowerment.<br/>
-<br/>
-ACHIEVEMENTS<br/>
+<h2 style={{color:'rgb(114, 48, 23)'}}>
+ACHIEVEMENTS
+</h2>
+<h2>
 In 2018, we were able to visit six Communities in Ezeagu. We provided a Relief funds that will help them start up a business, support their businesses.etc.
 We were extremely overjoyed to put smiles in their faces and it became a motivator to us knowing that our people needs us. 
 <br/>
