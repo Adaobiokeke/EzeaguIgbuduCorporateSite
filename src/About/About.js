@@ -119,11 +119,11 @@ const About = () => {
               <h5
                 style={{
                   fontSize: "35px",
-                  color: "rgb(35, 88, 88)",
+                  color: "rgb(114, 48, 23)",
                   fontFamily: "cursive",
                 }}
               >
-                View Our Constitution
+                Our Certificate of Incorporation.
               </h5>
             </div>
             <div className="const-grid">

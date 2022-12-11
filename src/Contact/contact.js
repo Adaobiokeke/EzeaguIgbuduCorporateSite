@@ -18,7 +18,7 @@ const Contact = () => {
           <div className="contact-det">
             <h2 className="contact-inv">
               We are available for discussions on support for our community and
-             other ideas that help us realise our vision for the association.
+             other ideas that can help us realise our vision for the association.
             </h2>
 
             <div className="email">
