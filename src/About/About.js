@@ -36,20 +36,20 @@ const About = () => {
             <h2 className="proverb">
               Ezeagu Igbudu Association Toronto Canada is a non-profit oriented
               organisation that is based in Canada,
-              <br /> we are a group of brothers and sisters from different parts
-              of Ezeagu. We look to promote our culture by promoting our
-              heritage, our cultural values, by providing support to one another
-              and by empowering our community. NWANNE DI NA MBA! <br /> We have
-              the following objectives;
+              <br /> We are a group of brothers and sisters from different parts
+              of Ezeagu local government area in Enugu state in Nigeria. We look to promote our culture by promoting our
+              heritage, our cultural values, providing support to one another
+              and by empowering our community. NWANNE DI NA MBA! <br />
+              
             </h2>
             <h2 style={{color:'rgb(114, 48, 23)'}}>Our Vision</h2>
             <h2>To support one another and improve our Culture and Tradition in Canada, and assist the less privileged members of our community in Nigeria.</h2>
-            <h2 style={{color:'rgb(114, 48, 23)'}}>Our Objectives</h2>
+            <h2 style={{color:'rgb(114, 48, 23)'}}><u>Our objectives;</u></h2>
             <ol style={{ color: "rgb(35, 88, 88)" }}>
               <li>
                 To unite all indigenous members of Ezeagu in Toronto Canada, and
                 bring us under one umbrella, for the purpose of getting involved
-                in day to day activities of what is happening in Ezeagu, also
+                in day to day activities of what is happening in Ezeagu, and
                 assist one another in Canada.
               </li>
               <li>

@@ -15,15 +15,14 @@ const Resources = () => {
       </section>
       <section className="trustees">
         <h2 style={{color:'rgb(114, 48, 23)'}}>
-        OUR SOCIAL ACTIVITY 
+        OUR SOCIAL ACTIVITIES 
         </h2>
         <h2 style={{color:'rgb(35, 88, 88)'}}>
           One of the Associations aims and objectives is to
           bring all Ezeagu Indigenous People in Canada together , to associate with 
           one another. We are each others support at all
-          times.<br/> Ezeagu Igbudu Association Toronto Canada holds their Annual
-          Picnic every Summer. It is an avenue for not only adults, to come and
-          socialize but also our Children have the opportunity to witness their
+          times.<br/> We hold our annual
+          Picnic every Summer, and this is an avenue for adults to not only come and socialize, but also for children to have the opportunity to witness their
           Father's culture rather than stories.<br/><br/> It is the height of our social
           activities as we do our best to include different cultural activities
           such as Yam roasting ( ihu ji), palm oil and oil bean sauce ( mmanu

@@ -32,7 +32,7 @@ const Activity = () => {
           finding an avenue to increase our funds to give more to our
           communities as it will provide greater opportunities for more people.
           Our aim is to take this project to the next level where we will be
-          able to extend our Humanitarian aid towards Education System and more
+          able to extend our Humanitarian aid towards Education and more
           Youth Empowerment.
         </h2>
         <br />
