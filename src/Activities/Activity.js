@@ -32,8 +32,8 @@ const Activity = () => {
           finding an avenue to increase our funds to give more to our
           communities as it will provide greater opportunities for more people.
           Our aim is to take this project to the next level where we will be
-          able to extend our Humanitarian aid towards Education and more
-          Youth Empowerment.
+          able to extend our Humanitarian aid towards Education and more Youth
+          Empowerment.
         </h2>
         <br />
         <h2 style={{ color: "rgb(114, 48, 23)" }}>ACHIEVEMENTS</h2>
@@ -175,6 +175,86 @@ const Activity = () => {
                 width="560"
                 height="315"
                 src="https://www.youtube.com/embed/3JrBUN9qmHo"
+                title="YouTube video player"
+                frameborder="0"
+                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+                allowfullscreen
+              ></iframe>
+              {/* <ReactPlayer
+              url="https://www.youtube.com/watch?v=ozKx4SdK0Rk"
+              className="vid1"
+            /> */}
+            </Grid>
+            <Grid item xs={12} sm={12} md={4} className="vid-cont">
+              <iframe
+                className="vid1"
+                width="560"
+                height="315"
+                src="https://www.youtube.com/embed/8HZzDjP-i7I"
+                title="YouTube video player"
+                frameborder="0"
+                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+                allowfullscreen
+              ></iframe>
+              {/* <ReactPlayer
+              url="https://www.youtube.com/watch?v=ozKx4SdK0Rk"
+              className="vid1"
+            /> */}
+            </Grid>
+            <Grid item xs={12} sm={12} md={4} className="vid-cont">
+              <iframe
+                className="vid1"
+                width="560"
+                height="315"
+                src="https://www.youtube.com/embed/zFheTPUjaks"
+                title="YouTube video player"
+                frameborder="0"
+                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+                allowfullscreen
+              ></iframe>
+              {/* <ReactPlayer
+              url="https://www.youtube.com/watch?v=ozKx4SdK0Rk"
+              className="vid1"
+            /> */}
+            </Grid>
+            <Grid item xs={12} sm={12} md={4} className="vid-cont">
+              <iframe
+                className="vid1"
+                width="560"
+                height="315"
+                src="https://www.youtube.com/embed/qV7j9mBCEF0"
+                title="YouTube video player"
+                frameborder="0"
+                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+                allowfullscreen
+              ></iframe>
+              {/* <ReactPlayer
+              url="https://www.youtube.com/watch?v=ozKx4SdK0Rk"
+              className="vid1"
+            /> */}
+            </Grid>
+            <Grid item xs={12} sm={12} md={4} className="vid-cont">
+              <iframe
+                className="vid1"
+                width="560"
+                height="315"
+                src="https://www.youtube.com/embed/6bcVW-P-wtY"
+                title="YouTube video player"
+                frameborder="0"
+                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+                allowfullscreen
+              ></iframe>
+              {/* <ReactPlayer
+              url="https://www.youtube.com/watch?v=ozKx4SdK0Rk"
+              className="vid1"
+            /> */}
+            </Grid>
+            <Grid item xs={12} sm={12} md={4} className="vid-cont">
+              <iframe
+                className="vid1"
+                width="560"
+                height="315"
+                src="https://www.youtube.com/embed/oStEWJKuCZo"
                 title="YouTube video player"
                 frameborder="0"
                 allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
