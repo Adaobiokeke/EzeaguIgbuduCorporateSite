@@ -12,6 +12,7 @@ body{
 .vid1{
     width:85%;
     margin:0 6%;
+    border-radius: 10px;
 }
 .vid-text{
 width:90%
