@@ -92,7 +92,8 @@ body{
     /* border:1px solid black; */
     display: flex;
     justify-content:center;
-    height:100px;
+    height:70px;
+    border-radius:7px;
 }
 button{
     background-color:rgb(114, 48, 23);
