@@ -97,6 +97,8 @@ body{
 button{
     background-color:rgb(114, 48, 23);
     color:white;
+    height:100px;
+
 }
 
 @media only screen and (max-width: 600px) {
