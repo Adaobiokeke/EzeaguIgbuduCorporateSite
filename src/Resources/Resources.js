@@ -37,7 +37,7 @@ const Resources = () => {
         <button> CLICK ME</button>
         </a>
       </section>
-      <section class="picnic-grid">
+      {/* <section class="picnic-grid">
         <Grid container spacing={3}>
           {resourcedata &&
             resourcedata.map((box, index) => (
@@ -49,7 +49,7 @@ const Resources = () => {
               </Grid>
             ))}
         </Grid>
-      </section>
+      </section> */}
       <Footer />
     </div>
   );
