@@ -31,8 +31,11 @@ const Resources = () => {
         </h2>
         <h2 style={{color:'rgb(114, 48, 23)'}}>
         COME JOIN US! <br/>EZEAGU IGBUDU KWENU !!!<br/><br/>
-          Below are pictures of our Past Social activities...
+          Click the button below to view  pictures from our social activities...
         </h2>
+        <a>
+        <button> CLICK ME</button>
+        </a>
       </section>
       <section class="picnic-grid">
         <Grid container spacing={3}>
