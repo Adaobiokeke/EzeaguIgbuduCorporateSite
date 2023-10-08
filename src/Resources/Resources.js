@@ -38,7 +38,7 @@ const Resources = () => {
         <Grid container spacing={3}>
           {resourcedata &&
             resourcedata.map((box, index) => (
-              <Grid item xs={12} sm={6} md={3}>
+              <Grid item xs={12} sm={6} md={4}>
                 <div className="resgrid">
                   <img src={box.image} alt="images" className="mypix2" />
                   <h5>{box.name}</h5>
