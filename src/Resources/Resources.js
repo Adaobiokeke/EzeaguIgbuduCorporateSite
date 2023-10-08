@@ -33,7 +33,7 @@ const Resources = () => {
         COME JOIN US! <br/>EZEAGU IGBUDU KWENU !!!<br/><br/>
           Click the button below to view  pictures from our social activities...
         </h2>
-        <a>
+        <a href="../Resources/resourcespixgallery.js">
         <button> CLICK ME</button>
         </a>
       </section>
