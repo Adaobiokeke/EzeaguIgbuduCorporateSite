@@ -34,7 +34,7 @@ const Resources = () => {
         COME JOIN US! <br/>EZEAGU IGBUDU KWENU !!!<br/><br/>
           Click the button below to view  pictures from our social activities...
         </h2>
-        <a href="" src="https://picnicgallery.netlify.app/">
+        <a src="https://picnicgallery.netlify.app/">
         <button> CLICK ME</button>
         </a>
       </section>
