@@ -7,7 +7,7 @@ import Constitution from "../Assets/constitution.jpg";
 import Cert from "../Assets/of incorporation.png";
 import Footer from "../Footer/footer";
 import { resourcedata } from "../Resources/resourcedata";
-import Resourcepixgallery from "../Resources/resourcepixgallery";
+// import Resourcepixgallery from "../Resources/resourcepixgallery";
 const Resources = () => {
   return (
     <div>
