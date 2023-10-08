@@ -34,12 +34,12 @@ const Resources = () => {
         COME JOIN US! <br/>EZEAGU IGBUDU KWENU !!!<br/><br/>
           Click the button below to view  pictures from our social activities...
         </h2>
-        <a>
+        {/* <a>
         <button> CLICK ME</button>
         <Resourcepixgallery/>
-        </a>
+        </a> */}
       </section>
-      {/* <section class="picnic-grid">
+      <section class="picnic-grid">
         <Grid container spacing={3}>
           {resourcedata &&
             resourcedata.map((box, index) => (
@@ -51,7 +51,7 @@ const Resources = () => {
               </Grid>
             ))}
         </Grid>
-      </section> */}
+      </section>
       <Footer />
     </div>
   );
