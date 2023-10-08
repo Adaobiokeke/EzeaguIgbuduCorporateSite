@@ -7,6 +7,7 @@ import Constitution from "../Assets/constitution.jpg";
 import Cert from "../Assets/of incorporation.png";
 import Footer from "../Footer/footer";
 import { resourcedata } from "../Resources/resourcedata";
+import Resourcepixgallery from "../Resources/resourcepixgallery";
 const Resources = () => {
   return (
     <div>
@@ -33,8 +34,9 @@ const Resources = () => {
         COME JOIN US! <br/>EZEAGU IGBUDU KWENU !!!<br/><br/>
           Click the button below to view  pictures from our social activities...
         </h2>
-        <a href="../Resources/resourcespixgallery.js">
+        <a>
         <button> CLICK ME</button>
+        <Resourcepixgallery/>
         </a>
       </section>
       {/* <section class="picnic-grid">
