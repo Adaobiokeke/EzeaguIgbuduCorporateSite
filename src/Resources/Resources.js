@@ -34,9 +34,11 @@ const Resources = () => {
         COME JOIN US! <br/>EZEAGU IGBUDU KWENU !!!<br/><br/>
           Click the button below to view  pictures from our social activities...
         </h2>
+        <div className='button-div'> 
         <a href="https://picnicgallery.netlify.app/">
         <button> CLICK ME</button>
         </a>
+        </div>
       </section>
       {/* <section class="picnic-grid">
         <Grid container spacing={3}>
