@@ -20,7 +20,7 @@ const footer = () => {
         </div>
         <div className="email">
           <h4 style={{color:'black'}}>Contact Us</h4>
-            <h4 style={{color:'black'}}>ezeaguigbudutorontocanada@gmail.com</h4>
+            <h4 href='ezeaguigbudutorontocanada@gmail.com'target='_blank' rel='noreferrer' style={{color:'black'}}>ezeaguigbudutorontocanada@gmail.com</h4>
         </div>
        
     </footer>
