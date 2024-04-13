@@ -121,6 +121,7 @@ const About = () => {
                   fontSize: "35px",
                   color: "rgb(114, 48, 23)",
                   fontFamily: "cursive",
+                  marginTop:"20%",
                 }}
               >
                 Our Certificate of Incorporation.
